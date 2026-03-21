@@ -148,11 +148,15 @@ Time series forecasting is widely used in:
 = Improve accuracy using transformers
 - 🤝 Contributing
 
-## 📜 License
-**This project is licensed under the MIT License.**
+---
 
 ## 👨‍💻 Author
 **Subhankar Pandit**  
 **Full Stack Developer | Backend Engineer | AI/ML | Cloud**  
 **GitHub**: https://github.com/SubhankarA8415  
 **LinkedIn**: https://linkedin.com/in/subhankar-pandit 
+
+---
+
+## 📜 License
+**This project is licensed under the MIT License.**
