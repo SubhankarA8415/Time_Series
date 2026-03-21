@@ -141,20 +141,18 @@ Time series forecasting is widely used in:
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 - Add real-time prediction using APIs
 - Deploy model using Flask / FastAPI
 - Integrate with a web dashboard
 = Improve accuracy using transformers
 - 🤝 Contributing
 
-📜 License
+## 📜 License
+**This project is licensed under the MIT License.**
 
-This project is licensed under the MIT License.
-
-👨‍💻 Author
-
-Subhankar Pandit
-
-GitHub: https://github.com/SubhankarA8415
-LinkedIn: https://linkedin.com/in/subhankar-pandit-080449255
+## 👨‍💻 Author
+**Subhankar Pandit**  
+**Full Stack Developer | Backend Engineer | AI/ML | Cloud**  
+**GitHub**: https://github.com/SubhankarA8415  
+**LinkedIn**: https://linkedin.com/in/subhankar-pandit 
