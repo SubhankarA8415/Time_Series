@@ -348,8 +348,24 @@ Time_Series/
 git clone https://github.com/SubhankarA8415/Time_Series.git
 cd BitPredict
 ```
+## 2️⃣ Create a Virtual Environment
 
-## 4️⃣ Launch the Notebook
+### Windows
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### Linux / macOS
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+---
+## 3️⃣ Launch the Notebook
 
 Open the project using:
 
