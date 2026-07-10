@@ -324,24 +324,16 @@ Using multiple evaluation metrics provides a more comprehensive understanding of
 # 📂 Project Structure
 
 ```text
-BitPredict/
+Time_Series/
 │
-├── notebooks/
-│   ├── Data_Preprocessing.ipynb
-│   ├── Model_Training.ipynb
-│   ├── Evaluation.ipynb
-│   └── Future_Forecasting.ipynb
+├── time_series_forecasting_in_tensorflow.ipynb
+├── time_series_forecasting_in_tensorflow_0_41410100_1773681945.pdf 
+│   
+├── docs/   
+│   ├── Architecture.md
+│   ├── Deep-Learning-Bitcoin-Time-Series-Forecasting.pdf
 │
-├── models/
-│
-├── data/
-│
-├── results/
-│
-├── Architecture.md
-├── BitPredict-Project-Presentation.pdf
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 > **Note:** The actual repository structure may differ slightly depending on the project organization and notebook layout.
