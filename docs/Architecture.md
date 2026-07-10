@@ -304,12 +304,8 @@ BitPredict is organized into modular components that separate data engineering, 
 
 | Module | Responsibility |
 |---------|----------------|
-| `data/` | Historical Bitcoin datasets and preprocessing outputs |
-| `notebooks/` | Data engineering, model development, experimentation, and forecasting workflows |
-| `models/` | Saved TensorFlow models and checkpoints |
-| `results/` | Evaluation metrics, visualizations, and forecasting outputs |
 | `Architecture.md` | Technical architecture and forecasting pipeline documentation |
-| `BitPredict-Project-Presentation.pdf` | Visual project presentation and workflow diagrams |
+| `Deep-Learning-Bitcoin-Time-Series-Forecasting.pdf` | Visual project presentation and workflow diagrams |
 | `README.md` | Project overview, setup instructions, and documentation |
 
 This modular organization improves maintainability while allowing researchers to modify individual stages of the forecasting pipeline without affecting the overall workflow.
@@ -488,7 +484,10 @@ For additional project information, refer to the following repository documents.
 | Document | Purpose |
 |-----------|---------|
 | `README.md` | Project overview, setup instructions, features, and usage |
+| `docs/Architecture.md` | Technical architecture and LLM engineering documentation |
 | `Deep-Learning-Bitcoin-Time-Series-Forecasting.pdf` | Architecture diagrams, forecasting pipeline, model portfolio, and project presentation |
+| `Deep-Learning-Bitcoin-Time-Series-Forecasting.pdf` | Architecture diagrams, forecasting pipeline, model portfolio, and project presentation |
+| `time_series_forecasting_in_tensorflow.pdf` | PDF version of the implementation notebook |
 
 ---
 
